@@ -1,0 +1,13 @@
+.banner{
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+  display: block;
+}
+
+.banner-footer{
+  background-size: cover;
+  background-position: center;
+  height: 150px;
+  background-color: rgb(59, 55, 55);
+}
